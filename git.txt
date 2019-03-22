@@ -1,0 +1,6 @@
+echo "# litemall" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cxzadmini/litemall.git
+git push -u origin master
